@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f7f7;
+  background: #f6f7f6;
 }
 
 
@@ -30,7 +30,6 @@ a:hover {
   background: black;
   min-height: 30px;
   padding: 10px;
-  position: fixed;
   text-align: center;
 }
 
@@ -107,12 +106,27 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: left;
   background: #fff;
-  box-shadow: 1px 1px 2px 2px #656363;
+  box-shadow: 1px 1px 2px 2px #2d462d;
+  border-radius: 6px;
+  transition: all .1s;
+}
+
+.experience {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  width: 80%;
+  text-align: left;
+  background: #fff;
+  box-shadow: 1px 1px 2px 2px #2d462d;
   border-radius: 6px;
   transition: all .1s;
 }
 
 .card:hover {
+     transform: scale(1.05);
+}
+
+.experience:hover {
      transform: scale(1.05);
 }
 
@@ -192,6 +206,17 @@ a.social:hover {
       max-width: 1200px;
       -ms-flex-pack: distribute;
       justify-content: space-around;
+      margin: 0 auto;
+  }
+
+  .flex_experience {
+      display: -ms-flexbox;      /* TWEENER - IE 10 */
+      display: flex;
+      max-width: 1200px;
+      flex-direction: column;
+      -ms-flex-pack: distribute;
+      justify-content: space-around;
+      align-items: center;
       margin: 0 auto;
   }
 
