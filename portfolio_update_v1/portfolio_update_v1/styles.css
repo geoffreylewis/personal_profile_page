@@ -31,6 +31,7 @@ a:hover {
   min-height: 30px;
   padding: 10px;
   text-align: center;
+  position: fixed;
 }
 
 .nav {
@@ -60,7 +61,7 @@ a:hover {
   color: white
 }
 
-header {
+.banner {
   text-align: center;
   background: url('images/keyboard_background.jpeg') no-repeat top center ;
   background-size: cover;
@@ -68,11 +69,11 @@ header {
   padding-top: 60px;
 }
 
-header {
+.banner {
   line-height: 1.5;
 }
 
-header .profile-image {
+.banner .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
@@ -81,7 +82,7 @@ header .profile-image {
   transition: all .3s;
 }
 
-header .profile-image:hover {
+.banner .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 
@@ -109,6 +110,10 @@ header .profile-image:hover {
   box-shadow: 1px 1px 2px 2px #2d462d;
   border-radius: 6px;
   transition: all .1s;
+}
+
+.flex_experience {
+     padding-top: 60px;
 }
 
 .experience {
@@ -220,7 +225,7 @@ a.social:hover {
       margin: 0 auto;
   }
 
-  header {
+  .banner {
     min-height: 470px;
   }
 
