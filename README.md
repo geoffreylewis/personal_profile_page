@@ -1,19 +1,19 @@
-#Techdegree Project 1: Personal Profile Page
+# Techdegree Project 1: Personal Profile Page
 
-##Project Summary:
+## Project Summary:
 
 I customized a personal profile web page template (provided by Team Treehouse) with my own images, text, and styling.  This was also my first time uploading to GitHub (and using GitHub Desktop to do so).
 
-##Built With:
+## Built With:
 
 * HTML5
 * CSS3
 
-##Author(s)
+## Author(s)
 
-Geoff Lewis  
+Geoff Lewis
 https://github.com/geoffreylewis
 
-##Acknowledgements
+## Acknowledgements
 
 I'd like to thank Team Treehouse for providing a great project idea through their "Front End Web Development" techdegree.
