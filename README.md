@@ -16,10 +16,10 @@ This was my first time uploading to GitHub (and using GitHub Desktop to do so). 
 ## Author(s)
 
 **Geoff Lewis**  
-Email: geoff@geofflewis.work  
-Portfolio: http://www.geofflewis.work  
-LinkedIn: https://www.linkedin.com/in/geoff-lewis-696286a8  
-GitHub: https://github.com/geoffreylewis
+*Email:* geoff@geofflewis.work  
+*Portfolio:* http://www.geofflewis.work  
+*LinkedIn:* https://www.linkedin.com/in/geoff-lewis-696286a8  
+*GitHub:* https://github.com/geoffreylewis
 
 ## Acknowledgements
 
