@@ -83,7 +83,7 @@ Section Styles
      margin-top: 50px;
      width: 150px;
      height: 150px;
-     border-radius: 45%;
+     border-radius: 50%;
      border: 2px solid white;
      transition: all .3s;
 }
