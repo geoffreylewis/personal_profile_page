@@ -11,7 +11,7 @@ I customized a web page template (provided by Team Treehouse) with my own images
 
 ## Additional Notes
 
-This was my first time uploading to GitHub (and using GitHub Desktop to do so).  I even learned how to write/format my first README file (yes, this one that you're reading right now).
+This was my first time uploading to GitHub (and using GitHub Desktop to do so).  I even learned how to write/format my first README file (yes, this one that you're reading right now).  This whole process has been an extremely valuable learning experience for me.
 
 ## Author(s)
 
