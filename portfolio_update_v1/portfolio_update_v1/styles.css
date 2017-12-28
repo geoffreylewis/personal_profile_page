@@ -83,7 +83,7 @@ Section Styles
      margin-top: 50px;
      width: 150px;
      height: 150px;
-     border-radius: 50%;
+     border-radius: 45%;
      border: 2px solid white;
      transition: all .3s;
 }
@@ -131,6 +131,10 @@ Section Styles
      box-shadow: 1px 1px 2px 2px #2d462d;
      border-radius: 6px;
      transition: all .1s;
+}
+
+.experience h3 {
+     color: green;
 }
 
 .card:hover {
