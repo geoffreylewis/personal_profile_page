@@ -1,4 +1,4 @@
-# Techdegree Project 1: Personal Profile Page
+# Personal Profile Page
 
 ## Software Summary
 
