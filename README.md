@@ -2,7 +2,7 @@
 
 ## Software Summary
 
-I customized a web page template (provided by Team Treehouse) with my own images, text, and styling.  It is essentially a hybrid between a professional profile and a personal one.
+I customized a web page template with my own images, text, and styling.  It is essentially a hybrid between a professional profile and a personal one.
 
 ## Built With
 
