@@ -11,7 +11,8 @@ I customized a web page template with my own images, text, and styling.  It is e
 
 ## Additional Notes
 
-* This was my first time uploading to GitHub (and using GitHub Desktop to do so).  
+* This was my first ever web creation of any kind!
+* This was also my first time uploading to GitHub (and using GitHub Desktop to do so).  
 * I learned how to write/format my first README file (yes, this one that you're reading right now).
 * All of the code has been successfully run through the W3C HTML/CSS validators; there are no errors.
 
