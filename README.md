@@ -2,7 +2,7 @@
 
 ## Software Summary
 
-I customized a web page template with my own images, text, and styling.  It is essentially a hybrid between a professional profile and a personal one.
+I customized a web page template (provided by Team Treehouse) with my own images, text, and styling.  It is essentially a hybrid between a professional profile and a personal one.
 
 ## Built With
 
@@ -23,6 +23,8 @@ I customized a web page template with my own images, text, and styling.  It is e
 *Portfolio:* http://www.geofflewis.work  
 *LinkedIn:* https://www.linkedin.com/in/geoff-lewis-696286a8  
 *GitHub:* https://github.com/geoffreylewis
+
+**Team Treehouse**
 
 ## Acknowledgements
 
