@@ -9,8 +9,10 @@ I customized a web page template (provided by Team Treehouse) with my own images
 * HTML5
 * CSS3
 
-## Additional Notes
+## Version History
 
+**Version 1.0**  
+*12/28/2017*  
 * This was my first ever web creation of any kind!
 * This was also my first time uploading to GitHub (and using GitHub Desktop to do so).  
 * I learned how to write/format my first README file (yes, this one that you're reading right now).
